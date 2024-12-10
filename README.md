@@ -174,3 +174,12 @@ Sample NFTs for Testing
 Here are some sample NFTs to test minting:
 
 
+Sample NFTs for Testing
+Here are some sample NFTs to test minting:
+
+Name              	          Description              	                                                  URI
+
+Celestial Dreams    	A mystical vision of stars across the cosmos.               	https://fastly.picsum.photos/id/802/200/200.jpg?hmac=alfo3M8Ps4XWmFJGIwuzLUqOrwxqkE5_f65vCtk6_Iw
+
+Oceanic Whisper     	A serene moment in oceanic depths.	                            https://fastly.picsum.photos/id/186/200/200.jpg?hmac=bNtKzMZT8HFzZq8mbTSWaQvmkX8T7TE47fspKMfxVl8
+
